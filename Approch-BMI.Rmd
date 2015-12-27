@@ -1,0 +1,28 @@
+---
+title: "Data Products"
+author: "Arjit"
+date: "December 27, 2015"
+output: slidy_presentation
+---
+
+## Objective
+Following are the objectives of this assignment :
+
+- Write a shiny application with associated supporting documentation. The documentation should be thought of as whatever a user will need to get started using your application.
+
+- Deploy the application on Rstudio's shiny server
+
+- Share the application link by pasting it into the text box provided on Wesite
+
+- Share your server.R and ui.R code on github
+
+## Approach
+
+- BMI Calculator will take Height, Weight, name and sex as inputs
+
+- BMI will be calculated by the formula ( weight)/(height)^2
+
+- Weights will in kgs
+
+- Height in Meters
+
